@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">A2_231A290074</string>
+
+    <string name="title">Lab A2 – Đồng hồ bấm giờ</string>
+
+    <string name="student">Trần Phước Điều – MSSV 231A290074</string>
+
+    <string name="zero_time">00:00.0</string>
+
+    <string name="start">Bắt đầu</string>
+
+    <string name="pause">Tạm dừng</string>
+
+    <string name="reset">Đặt lại</string>
+
+    <string name="status_running">Trạng thái: đang chạy</string>
+
+    <string name="status_paused">Trạng thái: tạm dừng</string>
+
+    <string name="recreate_count">Số lần Activity được tạo lại: %1$d</string>
+
+</resources>
